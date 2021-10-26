@@ -1,2 +1,2 @@
-# react-NotGlobalState
+# react-atom
 Created with CodeSandbox
